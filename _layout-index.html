@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<title>{{ page.title }}</title>
+<link rel="stylesheet" type="text/css" href="{{ "/assets/css/style.css" | absolute_url }}">
+
+</head>
+
+<body>
+
+<header>
+<p>This website is created by the GreyOrange PKE Team for the Manufacturing Team. </p>
+<p>Date of Creation: {{site.date}}. </p>
+ <p>Date of Updation: {{site.date}}. </p> 
+<hr/>
+</header>
+
+	<main>
+      <div>
+        {{ content }}
+      </div>
+    </main>
+
+<footer>{% include footer.md %}</footer>
+
+</body>
+
+</html>
