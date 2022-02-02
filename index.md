@@ -1,9 +1,9 @@
 ---
 layout: layout-index
-title: Bangalore Lalit Kala Kshetra
+title: Introduction to the Troubleshooting Guide
 ---
 
-# Introduction to the Troubleshooting Guide
+# {{page.title}}
 
 This guide enables to you resolve **Hardware Issues** related to the Ranger GTPs. This in turn helps you ensure that service and repair tasks get done seamlessly at customer sites resulting in an increase of the uptime for the Ranger bots.
 
