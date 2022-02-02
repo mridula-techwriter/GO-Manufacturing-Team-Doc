@@ -1,0 +1,74 @@
+h1, h2, h3, h4, h5, h6 {color:#4e5180;}
+
+hr { 
+  display: block;
+  border-width: 1px;
+  border-color: black;
+} 
+
+header {
+  font-family: Arial;
+  font-size: 12px;
+}
+
+footer {
+  font-family: Arial;
+  font-size: 12px;
+}
+
+blockquote { 
+  display: block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 40px;
+  margin-right: 40px;
+  background-color: #ffffee;
+  font-family: monospace;
+  font-size: 12px;
+  line-height: 190%;
+}
+
+code {
+  font-family: monospace;
+  color: crimson;
+  background-color: #ffffee;
+  padding: 2px;
+  font-size: 105%;
+}
+
+pre {
+  display: block;
+  font-family: monospace;
+  white-space: pre;
+  color: crimson;
+  background-color: #ffffee;
+  padding: 2px;
+  font-size: 105%;
+} 
+
+table {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: #ffffee;
+  padding: 2px;
+  font-family: monospace;
+}
+th {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: #ffffee;
+  padding: 2px;
+  color: blue;
+}
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  background-color: #ffffee;
+padding: 2px;
+}
+
+body {
+	line-height: 190%;
+	padding-left: 50px;
+	font-family: Arial;
+}
