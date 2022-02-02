@@ -1,3 +1,12 @@
+---
+layout: layout_pages
+title: Product Matrix
+---
+
+# {{page.title}}
+
+
+
 | Product | Product Image |
 | --- | --- |
 | [Ranger GTP 2.1 ](https://docs.google.com/presentation/d/156_FIz0yQlQSjLFkukOVW3DF3syep-TK/preview?slide=id.p1) | ![Ranger GTP 2.1](https://github.com/mridula-techwriter/greyorange-pke/blob/ea01d85a658549129f504b358d7e86044f496e9a/Doc_Manufacturing/Images/Ranger%20GTP%202.1.png) |
