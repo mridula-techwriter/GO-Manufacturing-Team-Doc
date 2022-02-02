@@ -1,28 +1,24 @@
 <!DOCTYPE html>
 <html lang="en">
+	<head>
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" type="text/css" href="{{ "/Assets/css/style.css" | absolute_url }}">
+	</head>
+	<body>
+		<header>
+			<p>This website is created for the instructor to assess my knowledge level in Doc as Code. </p>
+			<p>Date of Creation: {{site.date}}. </p>
+			<b><a href = "https://mridula-techwriter.github.io/GO-Manufacturing-Team-Doc/">Home</a></b>	
+			<hr/>
+		</header>
 
-<head>
-<title>{{ page.title }}</title>
-<link rel="stylesheet" type="text/css" href="./../assets/css/style.css">
-</head>
+		<main>
+      			<div>
+        			{{ content }}
+      			</div>
+    		</main>
 
-<body>
+		<footer>{% include footer.md %}</footer>
 
-<header>
-<p>This website is created for the instructor to assess my knowledge level in Doc as Code. </p>
-<p>Date of Creation: {{site.date}}. </p>
-<b><a href = "https://mridula-techwriter.github.io/twt-exam/">Home</a></b>	
-<hr/>
-</header>
-
-	<main>
-      <div>
-        {{ content }}
-      </div>
-    </main>
-
-<footer>{% include footer.md %}</footer>
-
-</body>
-
+	</body>
 </html>
