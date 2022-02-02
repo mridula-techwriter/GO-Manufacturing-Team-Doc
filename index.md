@@ -1,5 +1,5 @@
 ---
-layout: layout-index
+layout: layout_index
 title: Introduction to the Troubleshooting Guide
 ---
 
