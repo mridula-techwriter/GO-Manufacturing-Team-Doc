@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+	<head>
+		<title>{{ page.title }}</title>
+		<link rel="stylesheet" type="text/css" href="https://github.com/mridula-techwriter/GO-Manufacturing-Team-Doc/blob/547c2435a8aa805a7d2ea94c995b5070cd112d2a/Assets/css/GO-style.css">
+	</head>
+	<body>
+		<header>
+			<p>You are view a page from the Troubleshooting Guide for Ranger GTP </p>
+			<p>Date of Creation: {{site.date}}. </p>
+			<b><a href = "https://mridula-techwriter.github.io/GO-Manufacturing-Team-Doc/">Home</a></b>	
+			<hr/>
+		</header>
+
+		<main>
+      			<div>
+        			{{ content }}
+      			</div>
+    		</main>
+
+		<footer>{% include footer.md %}</footer>
+
+	</body>
+</html>
