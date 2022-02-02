@@ -9,8 +9,6 @@ This guide enables to you resolve **Hardware Issues** related to the Ranger GTPs
 
 This is an online interactive guide that empowers you to follow the right path for RCA. This further makes you self-sufficient and reduces your dependency on other teams.
 
-Mridula
-
 # Table of Contents
 1. [Product Matrix](Pages/Product-Matrix.md)
 
