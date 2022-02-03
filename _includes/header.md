@@ -1,3 +1,3 @@
-<p>This website is created for the instructor to assess my knowledge level after the Doc as Code training. </p>
-<p>Date of Creation: {{site.date}}. </p>
+This knowledge resource is created for the **Grey Orange Manufacturing Team** to empower our team of service engineers.
+<p>Date of Creation: {{ page.date | date_to_string }} </p>
 <hr/>
