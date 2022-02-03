@@ -9,7 +9,7 @@ title: Ranger GTP 2.1 Troubleshooter
 
 | Serial No. | Module | Error Details | Remarks |
 | :---: | :---: | :---: | :---: |
-| 1. |Camera | Top /Bottom Camera Issue | CSS-10264  |
+| 1. |Camera | [Top /Bottom Camera Issue](/Camera_ts/Butler_Top_Bottom_DM_Not_Found.md) | CSS-10264  |
 | 2. |Power | BoT not Powering Up | CSS-6609  |
 | 3. |Power | Cell Imbalance | CSS-10258  |
 | 4. |Lift Assembly | All Errors Related to Lift Assembly |   |
