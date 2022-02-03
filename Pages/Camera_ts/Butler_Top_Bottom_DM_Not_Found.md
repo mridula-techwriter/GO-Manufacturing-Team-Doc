@@ -1,3 +1,8 @@
+---
+layout: layout_pages
+title: Ranger GTP 2.1 Troubleshooter
+---
+
 Ver 1.0
 
 # Butler Top/Bottom DM not Found (CSS-10264)
