@@ -1,3 +1,3 @@
 <hr/>
 
-<p><b>Tech Writers Tribe</b>: This is an assessment project created by Mridula Menon.<p>
+<p><b>GreyOrange Product Knowledge Enablement Group</b>: We empower users by making knowledge retainable and usable .<p>
