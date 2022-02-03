@@ -2,7 +2,8 @@
 layout: layout_pages
 title: Ranger GTP 2.1 Troubleshooter
 ---
-
+###### [Troubleshooting Guide Home Page > ](https://mridula-techwriter.github.io/GO-Manufacturing-Team-Doc/)[Product Matrix > ](Product-Matrix.md){{page.title}} 
+---
 # {{page.title}}
 
 
