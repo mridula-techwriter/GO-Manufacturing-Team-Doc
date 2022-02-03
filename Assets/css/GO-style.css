@@ -22,9 +22,10 @@ blockquote {
   margin-bottom: 10px;
   margin-left: 40px;
   margin-right: 40px;
-  background-color: #ffffee;
+  background-color: #101a5c;
   font-family: monospace;
-  font-size: 105%;
+  color: white;
+  font-weight: bold;
   line-height: 190%;
 }
 
