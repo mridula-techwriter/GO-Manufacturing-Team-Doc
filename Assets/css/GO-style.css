@@ -38,10 +38,10 @@ code {
 
 pre {
   display: block;
-  font-family: monospace;
+  font-family: Arial;
   white-space: pre;
-  color: crimson;
-  background-color: #ffffee;
+  color: black;
+  background-color: #ffffff;
   padding: 2px;
   font-size: 105%;
 } 
@@ -49,7 +49,7 @@ pre {
 table {
   border: 1px solid black;
   border-collapse: collapse;
-  background-color: #ffffee;
+  background-color: #ffffff;
   padding: 2px;
   font-family: Arial;
 }
@@ -58,13 +58,12 @@ th {
   border-collapse: collapse;
   background-color: #ffffff;
   padding: 2px;
-  color: blue;
-  font-weight: bold;
+  color: black;
 }
 td {
   border: 1px solid black;
   border-collapse: collapse;
-  background-color: #ffffee;
+  background-color: #ffffff;
   padding: 2px;
    }
 
