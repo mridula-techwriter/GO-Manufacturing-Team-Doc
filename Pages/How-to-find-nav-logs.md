@@ -5,7 +5,7 @@ title: Ranger GTP 2.1 Troubleshooter
 
 
 # Find Navigation Logs
-This document walks you through all the steps to help you find the navigation log at customer site.
+This document walks you through all the steps that will help you find the navigation log at the customer site.
 
 ## Instructions
 1. Use MobaXterm or Kitty to log in to the Butler.   
