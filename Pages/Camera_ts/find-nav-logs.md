@@ -1,12 +1,12 @@
 ---
 layout: layout_pages
-title: Ranger GTP 2.1 Troubleshooter
+title: Find Navigation Logs
 ---
 ###### [Back to the Previous Page ](butler_top_bottom_dm_not_found.md) 
 ---
 
 
-# Find Navigation Logs
+# {{Page.title}}
 This document walks you through all the steps that will help you find the navigation log at the customer site.
 
 ## Instructions
