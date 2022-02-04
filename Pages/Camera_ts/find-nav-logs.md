@@ -2,7 +2,7 @@
 layout: layout_pages
 title: Ranger GTP 2.1 Troubleshooter
 ---
-###### [Back to Previous Page ](butler_top_bottom_dm_not_found.md) 
+###### [Back to the Previous Page ](butler_top_bottom_dm_not_found.md) 
 ---
 
 
