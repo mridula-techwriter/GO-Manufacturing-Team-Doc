@@ -27,7 +27,7 @@ When you see the error DM not found, it means that the Ranger is not able to rea
 
 > If the diagnostic test is passed continue with step 8 else go to the document<>. 
 
-8. Check the navigation log and the navigation code as explained in the document [How to Find Nav Logs](How-to-find-nav-logs.md).
+8. Check the navigation log and the navigation code as explained in the document [How to Find Nav Logs](how-to-find-nav-logs.md).
 9. Use the appropriate version of navigation code.
 10. Run the bot and see if the issue persists. 
 
