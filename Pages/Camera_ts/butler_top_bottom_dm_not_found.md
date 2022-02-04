@@ -10,7 +10,7 @@ When you see the error DM not found, it means that the Ranger is not able to rea
 
 
 ## Troubleshooting Steps:
-1. Check the navigation log and the navigation code as explained in the document [How to Find Nav Logs](https://mridula-techwriter.github.io/GO-Manufacturing-Team-Doc/blob/main/Pages/How-to-find-nav-logs.md?raw=true).
+1. Check the navigation log and the navigation code as explained in the document [How to Find Nav Logs](find-nav-logs.md).
 2. Use the appropriate version of navigation code.
 3. Run the bot and see if the issue persists.
 
@@ -27,7 +27,7 @@ When you see the error DM not found, it means that the Ranger is not able to rea
 
 > If the diagnostic test is passed continue with step 8 else go to the document<>. 
 
-8. Check the navigation log and the navigation code as explained in the document [How to Find Nav Logs](how-to-find-nav-logs.md).
+8. Check the navigation log and the navigation code as explained in the document [How to Find Nav Logs](find-nav-logs.md).
 9. Use the appropriate version of navigation code.
 10. Run the bot and see if the issue persists. 
 
