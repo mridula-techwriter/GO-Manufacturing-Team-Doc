@@ -2,12 +2,12 @@
 layout: layout_pages
 title: Butler Top/Bottom DM not Found (CSS-10264)
 ---
-###### [Back to the Previous Page ](Ranger-GTP-2.1-Troubleshooter.md) 
+###### [Back to the Previous Page ](../Ranger-GTP-2.1-Troubleshooter.md) 
 ---
 
 Ver 1.0
 
-# {{Page.title}}
+# {{page.title}}
 When you see the error DM not found, it means that the Ranger is not able to read the barcode correctly and therefore is unable to move.This error mostly occurs due to defect in the camera assembly, nav code version and splitter PCBA, and some issue. with the camera.
 
 
