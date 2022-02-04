@@ -2,7 +2,7 @@
 layout: layout_pages
 title: Butler Top/Bottom DM not Found (CSS-10264)
 ---
-##### [Back to the Previous Page ](../Ranger-GTP-2.1-Troubleshooter.md) 
+##### [Back to the Previous Page ](./Ranger-GTP-2.1-Troubleshooter.md) 
 ---
 
 Ver 1.0
